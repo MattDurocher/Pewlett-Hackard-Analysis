@@ -15,6 +15,9 @@ Retiring Titles
 - The largest group retring is the "Senior Engineer" group
 - The smallest group reitring is the "Manager" group
 - All types of engineers take up three of the avaiable seven groups and make up 50.09% of all retiring employees
+
+<img width="246" alt="Screen Shot 2022-09-28 at 11 04 42 PM" src="https://user-images.githubusercontent.com/111014191/192951825-8ad3bb22-fdc3-4520-9ebf-521f53ef8aa7.png">
+
 ## Summary
 ### Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
