@@ -9,6 +9,7 @@ Mentorship Eligibility
 - Each employee is listed once with their employee number, full name, hire date, retire date, birth date, and title.
 - Hilari Morton is the first listed employee
 - There are no columns with null or missing data
+<img width="734" alt="Screen Shot 2022-09-28 at 11 06 30 PM" src="https://user-images.githubusercontent.com/111014191/192952115-c02fb05d-a8fd-470c-8c41-2917107c3c10.png">
 
 Retiring Titles
 - There are seven groups of retiring employees
