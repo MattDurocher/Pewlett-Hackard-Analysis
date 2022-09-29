@@ -21,5 +21,5 @@ Retiring Titles
 ## Summary
 ### Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-  - df
+  - We could break this down very easily. By taking the existing Retiring titles table, we could segment it off by each year. This will let us know exaclty how many idividuals are leaving in exactly what positions. Whether this means we engage in internal promotions, external candidate interviews, or a mix of both; we will be able to know how many people will leave each departement in a given year throughout the silver tsunami period.
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
