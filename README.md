@@ -5,7 +5,7 @@ The purpose of this analysis was to create tables with Bobby for his manager at 
 ## Results
 ### Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 Mentorship Eligibility
-- There are 1549 eligible employees
+- There are 1,549 eligible employees
 - Each employee is listed once with their employee number, full name, hire date, retire date, birth date, and title.
 - Hilari Morton is the first listed employee
 - There are no columns with null or missing data
@@ -23,4 +23,4 @@ Retiring Titles
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
   - There are 90,398 employees that will be retiring during the time of the silver tsunami. We can easily break that down by sectioning off a table for each year and, breaking things down by grouping the data by job title and counting it by employee number in the same way that we did to create the retiring_titles table. This would allow us to know exactly how mnay roles to fill each year and what department to hire new employees for.  
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-  - By adding an age range
+  - There are 1,549 employees able to act as mentors as found in the mentorship_eligibility table. This will be plenty of employees to go ahead and get the next generation of Pewlett-Hackard employees intergrated into the workplace over the next few years.
