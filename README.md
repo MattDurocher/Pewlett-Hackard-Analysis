@@ -9,6 +9,7 @@ Mentorship Eligibility
 - Each employee is listed once with their employee number, full name, hire date, retire date, birth date, and title.
 - Hilari Morton is the first listed employee
 - There are no columns with null or missing data
+
 Retiring Titles
 - There are seven groups of retiring employees
 - The largest group retring is the "Senior Engineer" group
